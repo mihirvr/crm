@@ -1,0 +1,26 @@
+# IDEs and OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Backend (Spring Boot / Maven)
+backend/target/
+backend/*.jar
+backend/*.war
+backend/HELP.md
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Frontend (Vite / Node)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.npm/
+
+# Security (NEVER COMMIT THESE)
+.env
+.env.*
+*.pem
+*.key
