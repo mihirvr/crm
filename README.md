@@ -4,9 +4,9 @@ A production-ready Customer Support CRM designed for efficient ticket management
 
 ## 🚀 Live Demo
 
-**Application:** [Insert Vercel URL Here]
+**Application:** https://crm-plum-five.vercel.app/
 
-**Video Walkthrough:** [Insert Loom/YouTube Link Here]
+**Video Walkthrough:** https://www.youtube.com/watch?v=xMNMnGvcOtE
 
 ---
 
