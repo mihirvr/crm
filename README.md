@@ -183,6 +183,13 @@ The frontend application will be available at:
 http://localhost:5173
 ```
 
+### Running the Express API Gateway (Middleware Layer)
+To demonstrate a microservice architecture and Node.js capabilities, an Express.js API Gateway proxies traffic between the React frontend and the Spring Boot backend.
+
+1. Open a new terminal and navigate to the `server` directory:
+   ```bash
+   cd server
+   
 ---
 
 ## 📡 API Highlights
